@@ -1,0 +1,13 @@
+Caso,S,T,n,m,PR[us],PM[us],ER[bytes],EM[bytes]
+1,It's cold,Winter is coming,9,16,36.84,21.08,36,576
+2,It's cold,The One Piece is real,9,21,766.5,21.56,36,756
+3,It's cold,Even heroes need to be saved,9,28,569.8,23.46,36,1008
+4,Winter is coming,It's cold,16,9,843.82,28.62,64,576
+5,Winter is coming,The One Piece is real,16,21,18387.8,37.9,64,1344
+6,Winter is coming,Even heroes need to be saved,16,28,135785,42.24,64,1792
+7,The One Piece is real,It's cold,21,9,19190.4,41.74,84,756
+8,The One Piece is real,Winter is coming,21,16,47747.5,53.52,84,1344
+9,The One Piece is real,Even heroes need to be saved,21,28,1.89688e+06,56.74,84,2352
+10,Even heroes need to be saved,It's cold,28,9,57796.2,53.66,112,1008
+11,Even heroes need to be saved,Winter is coming,28,16,3.0802e+06,63.7,112,1792
+12,Even heroes need to be saved,The One Piece is real,28,21,2.24564e+06,66.8,112,2352
